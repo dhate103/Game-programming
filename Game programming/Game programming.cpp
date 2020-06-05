@@ -252,5 +252,5 @@ int main() {
 	(*pointer1)++;//pointer1(10)을 역참조한 값을 1 증가 시킨다.->11
 	(*pointer2)++;//pointer2(==pointer1(11))를 역참조한 값을 1 증가 시킨다.->12
 	cout << num;
-	a
+	asdf
 }
